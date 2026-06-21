@@ -1,0 +1,24 @@
+{
+  "name": "candor",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Candor — a browser-based econometrics workspace with live economic-data connectors and an AI Teacher.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.383.0",
+    "mathjs": "^12.4.3",
+    "papaparse": "^5.4.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.12.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.10"
+  }
+}
